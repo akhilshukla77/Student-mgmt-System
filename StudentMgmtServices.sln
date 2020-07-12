@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentMgmtServices", "StudentMgmtServices\StudentMgmtServices.csproj", "{4475EDE9-86D6-4C17-9894-3D9FB6D9E029}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentMgmtSystem", "StudentMgmtSystem\StudentMgmtSystem.csproj", "{854ABD02-58FE-4535-9B8F-4B123AEA1FFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4475EDE9-86D6-4C17-9894-3D9FB6D9E029}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4475EDE9-86D6-4C17-9894-3D9FB6D9E029}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4475EDE9-86D6-4C17-9894-3D9FB6D9E029}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4475EDE9-86D6-4C17-9894-3D9FB6D9E029}.Release|Any CPU.Build.0 = Release|Any CPU
+		{854ABD02-58FE-4535-9B8F-4B123AEA1FFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{854ABD02-58FE-4535-9B8F-4B123AEA1FFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{854ABD02-58FE-4535-9B8F-4B123AEA1FFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{854ABD02-58FE-4535-9B8F-4B123AEA1FFA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B58A8A7C-E4F6-479B-A384-F54A3C6A2611}
+	EndGlobalSection
+EndGlobal
